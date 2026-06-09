@@ -1,0 +1,18 @@
+# --- CORE API SERVER ---
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.1
+
+# --- AI & REASONING ENGINE (LANGCHAIN V3 MODERN) ---
+langchain==0.2.1
+langchain-core==0.2.1
+langchain-community==0.2.1
+langchain-groq==0.1.4
+langchain-huggingface==0.0.3
+
+# --- VECTOR & DATABASE ---
+opensearch-py==2.6.0
+sentence-transformers==2.7.0
+
+# --- DATA ANALYTICS (UNTUK AGREGASI BIAYA) ---
+pandas==2.2.2
