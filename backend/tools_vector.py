@@ -1,9 +1,8 @@
 from langchain_core.tools import tool
 from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
+from config import OPENSEARCH_URL, INDEX_NAME_VECTOR as INDEX_NAME
 
-OPENSEARCH_URL = "http://localhost:9200"
-INDEX_NAME = "rs_sehat_v4_pure"
 
 client = OpenSearch(
     hosts=[OPENSEARCH_URL],

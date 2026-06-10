@@ -6,7 +6,7 @@ os.environ["GROQ_API_KEY"] = GROQ_API_KEY
 
 # 2. Pangkalan Data Vektor
 OPENSEARCH_URL = "http://localhost:9200"
-INDEX_NAME_VECTOR = "rs_sehat_v4_agentic"
+INDEX_NAME_VECTOR = "rs_sehat_v4_pure"
 
 # 3. Rute Sumber Data
 # PASTIKAN RUTE INI BENAR MENGARAH KE FOLDER JSON ANDA
