@@ -1,0 +1,8 @@
+# Mengabaikan seluruh dependensi Node.js di folder frontend
+frontend/node_modules/
+frontend/dist/
+
+# Mengabaikan sisa-sisa Python dan lingkungan lokal
+__pycache__/
+*.pyc
+.env
