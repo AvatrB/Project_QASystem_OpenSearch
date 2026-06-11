@@ -333,17 +333,6 @@ Vite akan otomatis pindah ke port berikutnya (5174, 5175, dst). Lihat port yang 
 
 ---
 
-## Pembagian Peran
-
-| Nama | NIM | Peran |
-|---|---|---|
-| Avatar Bintang Ramadhan | 103052300007 | Data Engineer — ingest_pipeline.py, tools_analytics.py |
-| Jibril Nikki Giffari | 1305220041 | DevOps & Infrastructure — setup OpenSearch, config.py, deployment |
-| Agnes Valerie | 103052300040 | AI / Backend Engineer — agent_brain.py, tools_vector.py, main.py |
-| Stephani Maria Sianturi | 103052300083 | Frontend Developer — App.jsx, App.css |
-
----
-
 ## Mata Kuliah
 
 Rekayasa dan Organisasi Sistem Big Data
