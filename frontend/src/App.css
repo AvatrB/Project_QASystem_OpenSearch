@@ -190,20 +190,51 @@ body {
   align-items: center;
   gap: 6px;
   padding: 4px 12px;
-  background: #0f2a1f;
-  border: 1px solid #14532d;
   border-radius: 20px;
   font-size: 0.7rem;
   font-weight: 600;
+  transition: all 0.3s;
+}
+
+.status-badge-online {
+  background: #0f2a1f;
+  border: 1px solid #14532d;
   color: #86efac;
+}
+
+.status-badge-offline {
+  background: #2a0f0f;
+  border: 1px solid #532d14;
+  color: #fca5a5;
+}
+
+.status-badge-checking {
+  background: #1e1e0f;
+  border: 1px solid #534d14;
+  color: #fde68a;
 }
 
 .status-dot {
   width: 6px;
   height: 6px;
-  background: #22c55e;
   border-radius: 50%;
+  transition: all 0.3s;
+}
+
+.status-dot-online {
+  background: #22c55e;
   box-shadow: 0 0 6px #22c55e;
+}
+
+.status-dot-offline {
+  background: #ef4444;
+  box-shadow: 0 0 6px #ef4444;
+}
+
+.status-dot-checking {
+  background: #eab308;
+  box-shadow: 0 0 6px #eab308;
+  animation: pulse 1s ease-in-out infinite;
 }
 
 /* --- CHAT AREA --- */

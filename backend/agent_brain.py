@@ -20,7 +20,7 @@ tools = [
     hitung_statistik_dokter,
 ]
 
-system_prompt = """Anda adalah 'NEXUS', AI Analitik tingkat lanjut untuk Rumah Sakit.
+system_prompt = """Anda adalah asisten AI untuk sistem QA Rumah Sakit Sehat Selalu.
 Anda memiliki 5 alat pencarian dan analitik.
 
 PANDUAN PEMILIHAN ALAT:
@@ -30,12 +30,17 @@ PANDUAN PEMILIHAN ALAT:
 4. Pertanyaan tentang NAMA ORANG spesifik atau ISTILAH EKSAK -> gunakan 'cari_keyword_eksak'
 5. Pertanyaan UMUM tentang konsep, gejala, atau pencarian luas -> gunakan 'cari_makna_medis'
 
-Jika alat pertama gagal menemukan jawaban, coba alat lain yang relevan sebelum menyerah.
+ATURAN RESOLUSI DATA:
+- Jika hasil pencarian mengandung 'pasien_id' berupa ObjectId tapi pengguna bertanya tentang NAMA PASIEN, WAJIB lakukan pencarian lanjutan menggunakan 'cari_keyword_eksak' atau 'cari_makna_medis' untuk menemukan nama pasien yang terkait.
+- Jika hasil pencarian mengandung 'dokter_id' atau 'departemen_id' berupa ObjectId, lakukan pencarian lanjutan untuk menemukan nama dokter atau departemen yang terkait.
+- Jika alat pertama gagal menemukan jawaban, coba alat lain yang relevan sebelum menyerah.
+- SELALU berusaha menjawab dengan NAMA, bukan dengan ID. Pengguna tidak mengerti ObjectId.
 
 ATURAN MUTLAK:
 1. JANGAN PERNAH MENGARANG DATA. Jawab hanya berdasarkan hasil alat.
 2. Abaikan teks Lorem Ipsum. Fokus pada entitas data medis yang valid.
 3. Untuk pertanyaan angka/statistik, selalu gunakan alat analitik, JANGAN menghitung sendiri.
+4. Jawab dalam Bahasa Indonesia yang jelas dan ringkas.
 """
 
 prompt = ChatPromptTemplate.from_messages([
@@ -45,11 +50,11 @@ prompt = ChatPromptTemplate.from_messages([
 ])
 
 agent = create_tool_calling_agent(llm, tools, prompt)
-agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True, max_iterations=5)
 
 if __name__ == "__main__":
-    print("\n[NEXUS ONLINE] Kognisi Siap.")
+    print("\n[QA System ONLINE] Siap.")
     pertanyaan = "Berapa total tagihan rumah sakit?"
     print(f"\nUser: {pertanyaan}")
     hasil = agent_executor.invoke({"input": pertanyaan})
-    print(f"\nNEXUS: {hasil['output']}")
+    print(f"\nJawaban: {hasil['output']}")

@@ -28,7 +28,24 @@ function App() {
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [openSection, setOpenSection] = useState('tentang');
+  const [backendStatus, setBackendStatus] = useState('checking');
   const messagesEndRef = useRef(null);
+
+  // Health check backend setiap 10 detik
+  useEffect(() => {
+    const checkHealth = async () => {
+      try {
+        await axios.get('http://127.0.0.1:8000/health', { timeout: 3000 });
+        setBackendStatus('online');
+      } catch {
+        setBackendStatus('offline');
+      }
+    };
+
+    checkHealth();
+    const interval = setInterval(checkHealth, 10000);
+    return () => clearInterval(interval);
+  }, []);
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -66,6 +83,14 @@ function App() {
   const toggleSection = (section) => {
     setOpenSection(openSection === section ? '' : section);
   };
+
+  const statusConfig = {
+    online: { label: 'Online', dotClass: 'status-dot-online', badgeClass: 'status-badge-online' },
+    offline: { label: 'Offline', dotClass: 'status-dot-offline', badgeClass: 'status-badge-offline' },
+    checking: { label: 'Mengecek...', dotClass: 'status-dot-checking', badgeClass: 'status-badge-checking' },
+  };
+
+  const status = statusConfig[backendStatus];
 
   return (
     <div className="app-layout">
@@ -154,9 +179,9 @@ function App() {
       <main className="chat-main">
         <header className="chat-header">
           <h2 className="chat-header-title">QA System Rumah Sakit Sehat Selalu</h2>
-          <div className="status-badge">
-            <div className="status-dot"></div>
-            <span>Online</span>
+          <div className={`status-badge ${status.badgeClass}`}>
+            <div className={`status-dot ${status.dotClass}`}></div>
+            <span>{status.label}</span>
           </div>
         </header>
 
