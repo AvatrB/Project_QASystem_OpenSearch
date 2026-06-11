@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "nama_departemen": "IGD",
+  "lokasi": "Gedung A"
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "nama_departemen": "Kardiologi",
+  "lokasi": "Gedung C"
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "nama_departemen": "Penyakit Dalam",
+  "lokasi": "Gedung A"
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "nama_departemen": "Bedah",
+  "lokasi": "Gedung D"
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "nama_departemen": "Anak",
+  "lokasi": "Gedung A"
+}]

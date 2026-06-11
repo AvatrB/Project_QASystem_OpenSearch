@@ -1,0 +1,750 @@
+[{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc3"
+  },
+  "nama_dokter": "Dewi Farida, M.Pd",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc4"
+  },
+  "nama_dokter": "Maryanto Sudiati",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Selasa",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc5"
+  },
+  "nama_dokter": "Hafshah Mandala",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Rabu",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc6"
+  },
+  "nama_dokter": "Maimunah Haryanto",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Selasa",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc7"
+  },
+  "nama_dokter": "Dr. Ophelia Permadi",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc8"
+  },
+  "nama_dokter": "R. Karja Hardiansyah",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Jumat",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc9"
+  },
+  "nama_dokter": "Karja Laksmiwati",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Jumat",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fca"
+  },
+  "nama_dokter": "Banawa Prakasa",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Senin",
+    "Kamis",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fcb"
+  },
+  "nama_dokter": "Kacung Padmasari",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Jumat",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fcc"
+  },
+  "nama_dokter": "Gina Narpati",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Kamis",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fcd"
+  },
+  "nama_dokter": "Ibun Hakim",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Rabu",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fce"
+  },
+  "nama_dokter": "Jarwa Tamba",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Rabu",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fcf"
+  },
+  "nama_dokter": "Zulfa Aryani",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Senin",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd0"
+  },
+  "nama_dokter": "R. Balangga Pertiwi, S.H.",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Jumat",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd1"
+  },
+  "nama_dokter": "Kalim Saptono",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Senin",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd2"
+  },
+  "nama_dokter": "Raditya Lazuardi",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Kamis",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd3"
+  },
+  "nama_dokter": "Yuliana Manullang",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Jumat",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd4"
+  },
+  "nama_dokter": "Simon Pranowo, S.Pd",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Selasa",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd5"
+  },
+  "nama_dokter": "Drs. Perkasa Santoso, S.Gz",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Kamis",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd6"
+  },
+  "nama_dokter": "R. Sari Salahudin",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Jumat",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd7"
+  },
+  "nama_dokter": "Pardi Setiawan",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Senin",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd8"
+  },
+  "nama_dokter": "Titin Prasasta",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Kamis",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fd9"
+  },
+  "nama_dokter": "Mutia Zulaika",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Rabu",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fda"
+  },
+  "nama_dokter": "R.A. Intan Maulana",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Kamis",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fdb"
+  },
+  "nama_dokter": "KH. Cahyo Puspasari, M.M.",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Jumat",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fdc"
+  },
+  "nama_dokter": "Opung Winarsih",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Kamis",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fdd"
+  },
+  "nama_dokter": "Maimunah Nasyidah, S.E.",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Selasa",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fde"
+  },
+  "nama_dokter": "dr. Jaga Puspita",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Kamis",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fdf"
+  },
+  "nama_dokter": "R. Ami Gunarto",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Senin",
+    "Senin",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe0"
+  },
+  "nama_dokter": "Ganjaran Sitompul",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Senin",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe1"
+  },
+  "nama_dokter": "Estiono Anggraini",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Kamis",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe2"
+  },
+  "nama_dokter": "Bala Wijaya",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe3"
+  },
+  "nama_dokter": "R. Karimah Palastri, S.E.",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Senin",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe4"
+  },
+  "nama_dokter": "Nasim Prasetya, S.Psi",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe5"
+  },
+  "nama_dokter": "Maryadi Widodo",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Selasa",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe6"
+  },
+  "nama_dokter": "Ani Pertiwi",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Selasa",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe7"
+  },
+  "nama_dokter": "Ciaobella Suryono",
+  "spesialisasi": "Umum",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Kamis",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe8"
+  },
+  "nama_dokter": "Ir. Gawati Rahayu, M.Kom.",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Selasa",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fe9"
+  },
+  "nama_dokter": "Nalar Pangestu",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Selasa",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fea"
+  },
+  "nama_dokter": "Hj. Farhunnisa Yulianti, S.E.I",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Rabu",
+    "Jumat"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4feb"
+  },
+  "nama_dokter": "Garan Aryani",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fec"
+  },
+  "nama_dokter": "Kania Saefullah",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Rabu",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fed"
+  },
+  "nama_dokter": "Adikara Irawan",
+  "spesialisasi": "Penyakit Dalam",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbf"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Senin",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fee"
+  },
+  "nama_dokter": "dr. Surya Yuliarti",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc1"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Rabu",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fef"
+  },
+  "nama_dokter": "Yunita Ardianto, S.Gz",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Rabu",
+    "Kamis",
+    "Senin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff0"
+  },
+  "nama_dokter": "Ir. Zamira Laksita",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Kamis",
+    "Senin",
+    "Rabu"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff1"
+  },
+  "nama_dokter": "Belinda Anggriawan",
+  "spesialisasi": "Kardiolog",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc0"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Senin",
+    "Kamis"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff2"
+  },
+  "nama_dokter": "Praba Siregar",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fc2"
+  },
+  "jadwal_praktik": [
+    "Senin",
+    "Jumat",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff3"
+  },
+  "nama_dokter": "Hilda Uwais",
+  "spesialisasi": "Ahli Bedah",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Selasa",
+    "Senin",
+    "Selasa"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff4"
+  },
+  "nama_dokter": "Uda Kusmawati",
+  "spesialisasi": "Pediatri",
+  "departemen_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fbe"
+  },
+  "jadwal_praktik": [
+    "Jumat",
+    "Senin",
+    "Kamis"
+  ]
+}]

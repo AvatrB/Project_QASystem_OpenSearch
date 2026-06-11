@@ -1,0 +1,1512 @@
+[{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff5"
+  },
+  "nama_tim": "Tim Hijau 42",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fed"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff6"
+  },
+  "nama_tim": "Tim Hijau muda 99",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff7"
+  },
+  "nama_tim": "Tim Hijau muda 30",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff8"
+  },
+  "nama_tim": "Tim Zaitun 19",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ff9"
+  },
+  "nama_tim": "Tim Coklat tua 87",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ffa"
+  },
+  "nama_tim": "Tim Merah jambu 99",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ffb"
+  },
+  "nama_tim": "Tim Kuning 43",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ffc"
+  },
+  "nama_tim": "Tim Emas 31",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcf"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ffd"
+  },
+  "nama_tim": "Tim Merah jambu 22",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4ffe"
+  },
+  "nama_tim": "Tim Koral 52",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fca"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df4fff"
+  },
+  "nama_tim": "Tim Coklat 79",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5000"
+  },
+  "nama_tim": "Tim Hijau 16",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5001"
+  },
+  "nama_tim": "Tim Merah marun 88",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5002"
+  },
+  "nama_tim": "Tim Coklat tua 9",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5003"
+  },
+  "nama_tim": "Tim Koral 26",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5004"
+  },
+  "nama_tim": "Tim Magenta 82",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5005"
+  },
+  "nama_tim": "Tim Biru 4",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fda"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5006"
+  },
+  "nama_tim": "Tim Biru laut 8",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe2"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5007"
+  },
+  "nama_tim": "Tim Koral 10",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5008"
+  },
+  "nama_tim": "Tim Biru 60",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fde"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5009"
+  },
+  "nama_tim": "Tim Magenta 93",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500a"
+  },
+  "nama_tim": "Tim Biru 81",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500b"
+  },
+  "nama_tim": "Tim Ungu tua 70",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500c"
+  },
+  "nama_tim": "Tim Nila 3",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500d"
+  },
+  "nama_tim": "Tim Biru dongker 37",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500e"
+  },
+  "nama_tim": "Tim Koral 89",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df500f"
+  },
+  "nama_tim": "Tim Hijau tua 22",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdc"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fce"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5010"
+  },
+  "nama_tim": "Tim Merah marun 36",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5011"
+  },
+  "nama_tim": "Tim Merah bata 94",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5012"
+  },
+  "nama_tim": "Tim Biru laut 89",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe1"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5013"
+  },
+  "nama_tim": "Tim Ungu tua 79",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5014"
+  },
+  "nama_tim": "Tim Emas 23",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5015"
+  },
+  "nama_tim": "Tim Jingga 72",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd1"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5016"
+  },
+  "nama_tim": "Tim Merah 57",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5017"
+  },
+  "nama_tim": "Tim Putih 93",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5018"
+  },
+  "nama_tim": "Tim Koral 85",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff2"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5019"
+  },
+  "nama_tim": "Tim Abu-abu 27",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fde"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501a"
+  },
+  "nama_tim": "Tim Perak 10",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501b"
+  },
+  "nama_tim": "Tim Ungu 92",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fde"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501c"
+  },
+  "nama_tim": "Tim Abu-abu 24",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501d"
+  },
+  "nama_tim": "Tim Hitam 82",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501e"
+  },
+  "nama_tim": "Tim Jingga 83",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df501f"
+  },
+  "nama_tim": "Tim Biru muda 23",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5020"
+  },
+  "nama_tim": "Tim Hijau tua 56",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5021"
+  },
+  "nama_tim": "Tim Biru 25",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff2"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5022"
+  },
+  "nama_tim": "Tim Coklat tua 95",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fda"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4feb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5023"
+  },
+  "nama_tim": "Tim Hijau muda 93",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdf"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5024"
+  },
+  "nama_tim": "Tim Biru 80",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5025"
+  },
+  "nama_tim": "Tim Coklat tua 90",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fce"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5026"
+  },
+  "nama_tim": "Tim Hijau muda 61",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5027"
+  },
+  "nama_tim": "Tim Perak 15",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5028"
+  },
+  "nama_tim": "Tim Merah bata 99",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5029"
+  },
+  "nama_tim": "Tim Hijau tua 21",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4feb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502a"
+  },
+  "nama_tim": "Tim Ungu tua 8",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502b"
+  },
+  "nama_tim": "Tim Perak 8",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe8"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502c"
+  },
+  "nama_tim": "Tim Koral 29",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fed"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502d"
+  },
+  "nama_tim": "Tim Merah jambu 43",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502e"
+  },
+  "nama_tim": "Tim Abu-abu 50",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fed"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fef"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df502f"
+  },
+  "nama_tim": "Tim Koral 90",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fed"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5030"
+  },
+  "nama_tim": "Tim Jingga 29",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5031"
+  },
+  "nama_tim": "Tim Abu-abu 64",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcf"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5032"
+  },
+  "nama_tim": "Tim Biru muda 6",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fed"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5033"
+  },
+  "nama_tim": "Tim Ungu 36",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5034"
+  },
+  "nama_tim": "Tim Hitam 69",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe5"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5035"
+  },
+  "nama_tim": "Tim Hitam 62",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5036"
+  },
+  "nama_tim": "Tim Biru muda 73",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5037"
+  },
+  "nama_tim": "Tim Zaitun 75",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdd"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5038"
+  },
+  "nama_tim": "Tim Hijau muda 46",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5039"
+  },
+  "nama_tim": "Tim Biru dongker 84",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503a"
+  },
+  "nama_tim": "Tim Emas 61",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fce"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503b"
+  },
+  "nama_tim": "Tim Putih 47",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fef"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503c"
+  },
+  "nama_tim": "Tim Coklat tua 66",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe0"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503d"
+  },
+  "nama_tim": "Tim Hijau 99",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503e"
+  },
+  "nama_tim": "Tim Hijau muda 46",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcd"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df503f"
+  },
+  "nama_tim": "Tim Kuning 88",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fef"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5040"
+  },
+  "nama_tim": "Tim Putih 91",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5041"
+  },
+  "nama_tim": "Tim Magenta 35",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd1"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5042"
+  },
+  "nama_tim": "Tim Coklat tua 67",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc9"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5043"
+  },
+  "nama_tim": "Tim Biru muda 75",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5044"
+  },
+  "nama_tim": "Tim Biru laut 16",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5045"
+  },
+  "nama_tim": "Tim Emas 25",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc5"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5046"
+  },
+  "nama_tim": "Tim Emas 24",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5047"
+  },
+  "nama_tim": "Tim Merah jambu 44",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5048"
+  },
+  "nama_tim": "Tim Magenta 20",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5049"
+  },
+  "nama_tim": "Tim Biru muda 20",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fee"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504a"
+  },
+  "nama_tim": "Tim Perak 64",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fd7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4feb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fdf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504b"
+  },
+  "nama_tim": "Tim Hijau tua 95",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff2"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504c"
+  },
+  "nama_tim": "Tim Putih 37",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4feb"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe7"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcc"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504d"
+  },
+  "nama_tim": "Tim Biru muda 1",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504e"
+  },
+  "nama_tim": "Tim Magenta 89",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df504f"
+  },
+  "nama_tim": "Tim Merah bata 59",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc5"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5050"
+  },
+  "nama_tim": "Tim Nila 71",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fec"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5051"
+  },
+  "nama_tim": "Tim Hijau muda 64",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fca"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5052"
+  },
+  "nama_tim": "Tim Biru dongker 99",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5053"
+  },
+  "nama_tim": "Tim Magenta 25",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5054"
+  },
+  "nama_tim": "Tim Merah 9",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcf"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc4"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4ff1"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5055"
+  },
+  "nama_tim": "Tim Biru 21",
+  "shift": "Malam",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fcf"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc6"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc7"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5056"
+  },
+  "nama_tim": "Tim Coklat tua 65",
+  "shift": "Siang",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fea"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5057"
+  },
+  "nama_tim": "Tim Perak 94",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc3"
+    },
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fe4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a0dabdb0cdf8202d4df5058"
+  },
+  "nama_tim": "Tim Coklat 26",
+  "shift": "Pagi",
+  "anggota_dokter_ids": [
+    {
+      "$oid": "6a0dabdb0cdf8202d4df4fc8"
+    }
+  ]
+}]
